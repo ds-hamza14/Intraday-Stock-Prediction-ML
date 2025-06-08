@@ -1,0 +1,13 @@
+IPython
+alpha_vantage
+collections
+google
+matplotlib>=3.4.0
+numpy>=1.21.0
+os
+pandas>=1.3.0
+random
+scikit-learn>=0.24.0
+tensorflow
+tensorflow_datasets
+time
