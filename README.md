@@ -29,5 +29,5 @@ Plots and performance metrics are included in the notebooks to evaluate predicti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Intraday-Stock-Prediction-ML.git
+   git clone https://github.com/ds-hamza14/Intraday-Stock-Prediction-ML.git
    cd Intraday-Stock-Prediction-ML
