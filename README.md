@@ -31,3 +31,10 @@ Plots and performance metrics are included in the notebooks to evaluate predicti
    ```bash
    git clone https://github.com/ds-hamza14/Intraday-Stock-Prediction-ML.git
    cd Intraday-Stock-Prediction-ML
+
+2. Install required packages:
+pip install -r requirements.txt
+
+3. Open the notebooks:
+jupyter notebook
+
